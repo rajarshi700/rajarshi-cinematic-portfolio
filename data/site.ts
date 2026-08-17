@@ -21,7 +21,7 @@ export const site = {
   email: "rajarshiroydgp1@gmail.com",
   phone: "+91 7008948510",
   github: "https://github.com/rajarshi700",
-  linkedin: "www.linkedin.com/in/rajarshiroysde1",
+  linkedin: "https://www.linkedin.com/in/rajarshiroysde1",
 };
 
 export const otherProjects = [
