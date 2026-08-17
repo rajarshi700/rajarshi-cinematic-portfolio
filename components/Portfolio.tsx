@@ -91,7 +91,7 @@ export default function Portfolio() {
                 Explore my work
                 <span aria-hidden="true">↗</span>
               </a>
-              <a className="button button-secondary" href={`mailto:${site.email}`}>
+              <a className="button button-secondary" href="#contact">
                 Let&apos;s talk
               </a>
             </div>
