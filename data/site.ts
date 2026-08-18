@@ -65,7 +65,7 @@ export const projects: Project[] = [
     stack: [],
     image: "/projects/Agentic AI Platform.svg",
     demoVideo: "demos/visonai.mp4",
-    liveUrl: "https://production.d1kbzr8jskis2e.amplifyapp.com",
+    liveUrl: "https://visionai-frontend-hvi0.onrender.com",
     codeUrl: "https://github.com/rajarshi700/visionai",
   },
   {
