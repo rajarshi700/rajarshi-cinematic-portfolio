@@ -60,7 +60,7 @@ export default function VideoModal({ project, onClose }: VideoModalProps) {
 
         <div className="video-modal-foot">
           <p>{project.impact}</p>
-          <span>Replace the sample MP4 with your real screen recording.</span>
+          <span></span>
         </div>
       </div>
     </div>
